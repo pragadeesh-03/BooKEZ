@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/font/nunito.xml" value="0.1" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_about_app.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_add_book.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_book_info.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_book_info_order.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_buy_book.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_change_address.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_creat_account_seller.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_create_account_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_customer_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_favourites.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_home_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_home_seller.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_order_history_c.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_payment_history_c.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_placed.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_preview_book.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_profile_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_rent_book.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_update_order.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_view_order_customer.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/app_bar_home_seller.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/content_home_seller.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_about.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_booklist.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_gallery.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_home.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_homec.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_profile.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_search.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_seller_current_orders.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_seller_pay_history.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_seller_profile.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/layout/nav_header_home_seller.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/menu/actionbarmenu.xml" value="0.25" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/menu/activity_home_seller_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/menu/home_seller.xml" value="0.25" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/mipmap-anydpi-v26/bookcavelogo.xml" value="0.1" />
+        <entry key="..\:/Users/praga/AndroidStudioProjects/BookApp/app/src/main/res/mipmap-anydpi-v26/bookcavelogo_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
